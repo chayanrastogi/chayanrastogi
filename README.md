@@ -41,4 +41,4 @@
      <a href="https://mongoosejs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="mongoose" width="40" height="40"/> </a>
       <a href="https://cloudinary.com/" target="_blank"> <img src="https://banner2.cleanpng.com/20180426/yce/kisspng-cloudinary-computer-software-software-as-a-service-5ae2211173ebf6.3513513815247690414748.jpg" alt="cloudinary" width="40" height="40"/> </a>  
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-    </p>
+</p>
