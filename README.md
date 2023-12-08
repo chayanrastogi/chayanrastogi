@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://gumlet.assettype.com/quintype-website%2F2022-11%2F422faa1c-8c54-4286-849f-78d5ecfb72f9%2F12063795_4884785__1_.jpg?rect=0%2C156%2C3000%2C1688&auto=format%2Ccompress&fit=max&format=webp&w=768&dpr=1.3" alt="chayan" width="300" /> 
+  <img src="https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg" alt="chayan" width="500" /> 
 </div>
 
 <h1 align="center">Welcome to my coding playground   <img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" alt="hi" align="center" width="80"/> </h1>
