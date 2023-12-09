@@ -20,7 +20,7 @@
 - 💻 MERN Stack
 - 🚀 Always ready to collaborate for Dev Experiments
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
-- 🔭 I’m currently working on backend development projects.
+- 🔭 I’m currently working on an E-commerce project.
 - 👯 I’m willing to collaborate on building communitites, and research projects.
 - ⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking
   
