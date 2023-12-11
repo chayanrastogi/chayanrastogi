@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg" alt="chayan" width="500" /> 
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="chayan" width="400" /> 
 </div>
 
 <h1 align="center">Welcome to my coding playground   <img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" alt="hi" align="center" width="80"/> </h1>
@@ -12,7 +12,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-cp.chayanrastogi@gmail.com-brightgreen?logo=gmail&style=social)](mailto:cp.chayanrastogi@gmail.com)
 
-<img align='right' src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="250">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=chayanrastogi&show_icons=true&locale=en&layout=compact" width="250">
 
 ## <img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me :** 
 
