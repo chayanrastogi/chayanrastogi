@@ -4,7 +4,7 @@
 
 <h1 align="center">Welcome to my coding playground  <img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" alt="hi" align="center" width="80"/> </h1>
 
-<div align="center"> 
+<div align="center "> 
   <img src="https://komarev.com/ghpvc/?username=chayanrastogi&label=Visitors&color=B125EA&style=for-the-badge " alt="chayan" /> 
 </div>
 
